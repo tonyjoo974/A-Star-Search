@@ -1,5 +1,5 @@
 # Maze Search (BFS vs A-star)
-<img src="https://github.com/jdh0312/A-Star-Search/blob/main/maze.jpg" width="50%"></img>
+<img src="https://github.com/tonyjoo974/A-Star-Search/blob/main/maze.jpg" width="50%"></img>
 
 ## Goal:
 Build a general-purpose search algorithms and apply them to solving puzzles. Specifically, I implemented path finding algorithm including BFS and A* for Pacman Game. 
